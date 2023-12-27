@@ -1,0 +1,2 @@
+User-agent: /<script>alert(1)</script>
+Disallow: /<script>alert(1)</script>

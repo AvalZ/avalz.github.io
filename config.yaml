@@ -1,0 +1,23 @@
+baseURL: http://avalz.it/
+disablePathToLower: true
+languageCode: en-us
+title: AvalZ
+theme: "PaperMod"
+params:
+  homeInfoParams:
+    Title: Andrea Valenza
+    Content: Security Engineer @ [Prima Assicurazioni](https://github.com/primait/), PhD
+
+  socialIcons:
+    - name: GitHub
+      url: https://github.com/avalz/
+    - name: Twitter
+      url: https://twitter.com/avalz_/
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/andrea-valenza/
+    - name: Email
+      url: mailto:avalenza89@gmail.com
+
+module:
+  imports:
+    - path: github.com/adityatelange/hugo-PaperMod
