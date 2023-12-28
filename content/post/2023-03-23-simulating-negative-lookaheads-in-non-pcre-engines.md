@@ -2,8 +2,6 @@
 cover:
   image: /assets/posts/negative-lookahead/confused-travolta.jpg
   alt: "Confused Travolta"
-categories:
-- Tricks
 date: "2023-03-23T00:00:00Z"
 excerpt: Negative lookaheads (and lookaround constructs in general) are an awesome
   feature in PCRE. But what if you are using a non-PCRE engine?
