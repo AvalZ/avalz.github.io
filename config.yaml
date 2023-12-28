@@ -17,7 +17,3 @@ params:
       url: https://www.linkedin.com/in/andrea-valenza/
     - name: Email
       url: mailto:avalenza89@gmail.com
-
-module:
-  imports:
-    - path: github.com/adityatelange/hugo-PaperMod
