@@ -1,6 +1,5 @@
 ---
 categories:
-- Blog
 - Notes
 date: "2017-02-01T00:00:00Z"
 title: Building pretty slides using Markdown and pandoc

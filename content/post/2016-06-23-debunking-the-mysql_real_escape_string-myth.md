@@ -1,14 +1,14 @@
 ---
-categories:
-- Blog
-date: "2016-06-23T00:00:00Z"
-excerpt_separator: <!--more-->
 tags:
 - sqli
 - websec
 title: Debunking the mysql_real_escape_string myth
+date: "2016-06-23T00:00:00Z"
 ---
-## a.k.a. "My queries are secure because I use mysql_real_escape_string to sanitize inputs"
+
+Are you sure that `mysql_real_escape_string` is enough to sanitize your input?
+(Spoiler: it's not)
+
 
 From [PHP Manual](http://php.net/manual/it/mysqli.real-escape-string.php):
 
