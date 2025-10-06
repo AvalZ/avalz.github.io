@@ -2,6 +2,8 @@
 cover:
   image: /assets/posts/metasploit-pro-xss-to-rce/clever-girl.png
   caption: '"_Clever girl!_" - Robert Muldoon'
+aliases:
+- /research/metasploit-pro-xss-to-rce/
 categories:
 - Research
 date: "2020-05-21T00:00:00Z"
